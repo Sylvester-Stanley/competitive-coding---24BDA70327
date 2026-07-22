@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0035-search-insert-position) |
 | [0219-contains-duplicate-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
