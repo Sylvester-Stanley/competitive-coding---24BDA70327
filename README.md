@@ -72,4 +72,28 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0234-palindrome-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
