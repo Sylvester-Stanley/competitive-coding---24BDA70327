@@ -11,6 +11,7 @@
 | [0090-subsets-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0090-subsets-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0287-find-the-duplicate-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -68,6 +71,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -108,4 +112,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0258-add-digits) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
