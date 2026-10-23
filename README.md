@@ -12,6 +12,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0287-find-the-duplicate-number) |
+| [2498-frog-jump-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/2498-frog-jump-ii) |
 | [3693-climbing-stairs-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0287-find-the-duplicate-number) |
+| [2498-frog-jump-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/2498-frog-jump-ii) |
 ## Stack
 |  |
 | ------- |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [3693-climbing-stairs-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/3693-climbing-stairs-ii) |
+## Greedy
+|  |
+| ------- |
+| [2498-frog-jump-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/2498-frog-jump-ii) |
 <!---LeetCode Topics End-->
