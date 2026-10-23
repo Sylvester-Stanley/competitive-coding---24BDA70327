@@ -96,4 +96,16 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
