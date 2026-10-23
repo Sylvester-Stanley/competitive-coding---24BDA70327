@@ -12,6 +12,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0287-find-the-duplicate-number) |
+| [3693-climbing-stairs-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
