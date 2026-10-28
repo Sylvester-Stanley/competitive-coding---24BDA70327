@@ -13,6 +13,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0322-coin-change) |
 | [2498-frog-jump-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/2498-frog-jump-ii) |
 | [3693-climbing-stairs-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
@@ -129,6 +130,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0322-coin-change) |
 | [1143-longest-common-subsequence](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/1143-longest-common-subsequence) |
 | [3693-climbing-stairs-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0322-coin-change) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -161,4 +164,12 @@
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/1971-find-if-path-exists-in-graph) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
