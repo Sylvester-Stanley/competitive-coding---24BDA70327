@@ -89,6 +89,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -146,12 +147,18 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
