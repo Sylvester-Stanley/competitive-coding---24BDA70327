@@ -9,6 +9,7 @@
 | [0040-combination-sum-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0040-combination-sum-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0090-subsets-ii) |
+| [0200-number-of-islands](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0287-find-the-duplicate-number) |
@@ -86,6 +87,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -140,4 +142,16 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/1143-longest-common-subsequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
