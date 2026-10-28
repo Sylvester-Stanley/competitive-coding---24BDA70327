@@ -126,9 +126,18 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/1143-longest-common-subsequence) |
 | [3693-climbing-stairs-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
 | [2498-frog-jump-ii](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/2498-frog-jump-ii) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Sylvester-Stanley/competitive-coding---24BDA70327/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
